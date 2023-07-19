@@ -51,6 +51,10 @@ Contributions to improve the functionality or fix issues with the trading bot ar
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
+If you use this work, please cite:
+- Repository
+- Author: guldo111
+
 ## References
 
 - [ccxt library](https://github.com/ccxt/ccxt)
